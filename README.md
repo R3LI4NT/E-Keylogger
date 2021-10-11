@@ -1,4 +1,4 @@
-# Basic Keylogger :)
+# Simple Keylogger :)
 
 ![Captura de pantalla (278)](https://user-images.githubusercontent.com/75953873/111856934-f3ede880-890c-11eb-84d1-420f48ad399d.png)
 
