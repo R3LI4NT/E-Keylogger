@@ -1,6 +1,6 @@
 # Simple Keylogger :)
 
-![Captura de pantalla (278)](https://user-images.githubusercontent.com/75953873/111856934-f3ede880-890c-11eb-84d1-420f48ad399d.png)
+![Captura de pantalla (357)](https://user-images.githubusercontent.com/75953873/136726793-5bb488c4-48c9-4f26-8bfa-6c40b2588772.png)
 
 
-![Captura de pantalla (280)](https://user-images.githubusercontent.com/75953873/111856937-f5b7ac00-890c-11eb-8e65-9b6c81d73dc6.png)
+![Captura de pantalla (359)](https://user-images.githubusercontent.com/75953873/136726808-a79c758b-f80d-4414-8e16-3a4bc771ea74.png)
