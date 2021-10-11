@@ -4,3 +4,13 @@
 
 
 ![Captura de pantalla (359)](https://user-images.githubusercontent.com/75953873/136726808-a79c758b-f80d-4414-8e16-3a4bc771ea74.png)
+
+
+### Instalar / Install
+
+```
+• git clone https://github.com/R3LI4NT/keylogger
+• pip install pynput
+• cd keylogger
+• python3 keylogger.py
+```
