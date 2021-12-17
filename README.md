@@ -16,10 +16,6 @@
 
 ## IMPORTANT
 
-Activate the access of less secure apps from your gmail account -> https://myaccount.google.com/
-
-
-
 **`ES:`** 
 Activar el acceso de apps menos seguras de tu cuenta gmail -> https://myaccount.google.com/
 
