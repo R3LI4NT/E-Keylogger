@@ -9,8 +9,7 @@
 ### Instalar / Install
 
 ```
-• git clone https://github.com/R3LI4NT/keylogger
-• pip install pynput
-• cd keylogger
+• https://github.com/R3LI4NT/E-Keylogger
+• cd E-Keylogger
 • python3 keylogger.py
 ```
