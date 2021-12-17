@@ -22,8 +22,10 @@ Activate the access of less secure apps from your gmail account -> https://myacc
 
 **`ES:`** 
 Activar el acceso de apps menos seguras de tu cuenta gmail -> https://myaccount.google.com/
+
 No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
 
 **`EN:`**
 Activate the access of less secure apps from your gmail account -> https://myaccount.google.com/
+
 I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
