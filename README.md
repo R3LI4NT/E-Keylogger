@@ -1,9 +1,6 @@
-# Simple Keylogger :)
+# Email Keylogger :)
 
-![Captura de pantalla (361)](https://user-images.githubusercontent.com/75953873/136728062-1124d8c2-0665-4844-8ae7-7c75dce9cf37.png)
-
-
-![Captura de pantalla (359)](https://user-images.githubusercontent.com/75953873/136726808-a79c758b-f80d-4414-8e16-3a4bc771ea74.png)
+![Captura de pantalla_2021-12-16_21-21-44](https://user-images.githubusercontent.com/75953873/146483739-278c9f55-eedb-432a-93a8-96ad123426f7.png)
 
 
 ### Instalar / Install
