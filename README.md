@@ -11,6 +11,7 @@
 ```
 • git clone https://github.com/R3LI4NT/E-Keylogger
 • cd E-Keylogger
+• pip3 install -r requirements.txt
 • python3 keylogger.py
 ```
 
