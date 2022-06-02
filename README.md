@@ -30,7 +30,7 @@ I am not responsible for the misuse that may be given to this tool, use it for P
 
 # Código Keylogger
 
-``` ¡ ADVERTENCIA !
+``` - ADVERTENCIA -
 ```
 
 ##### Este material esta hecho con fines educativos y el autor no se hace responsable por el mal uso que se le pueda dar a esta información. 
